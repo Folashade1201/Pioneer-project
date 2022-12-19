@@ -1,0 +1,77 @@
+#imagebar {
+	height: 400px;
+	border: 1px solid black;
+	margin-top: 50px;
+	background-color: grey;
+
+}
+
+.para1 {
+	font-size: 30px;
+	font-family: helvetica;
+
+}
+
+.sidebox {
+	width: 300px;
+	height: 300px;
+	background-color: darkblue;
+    float: right;
+    margin-top: 100px;
+    color: white;
+    margin-bottom: 100px;
+}
+
+h7 {
+	font-size: 20px;
+	margin-top: 50px;
+	padding: 30px;
+}
+
+.maybe {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.changecolor {
+	background-color: blue;
+	padding: 10px 17px;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px;
+	font-weight: normal;
+   
+}
+
+.bluebutton {
+
+	background-color: blue;
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px;
+	font-weight: normal;
+	margin-left: 950px;
+   
+}
+
+input{
+	border: none;
+}
+
+button {
+	border: none;
+}
+.comment { 
+	padding: 20px;
+	background-color: rgb(246, 246, 246);
+	clear: both;
+}
+
+.adjust {
+	font-size: 30px;
+}
+
+.wrong {
+	border: none;
+}

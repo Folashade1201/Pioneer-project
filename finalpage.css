@@ -1,0 +1,294 @@
+.image1 {
+
+}
+
+#firstbox {
+	background-color: darkblue;
+	height: 600px;
+	margin-top:  20px;
+}
+
+.text1 {
+	color: white;
+	text-align: center;
+	padding-top: 10em;
+	font-size: 25px;
+    font-family: sans-serif;
+}
+
+#secondbox {
+	height: 650px;
+	background-color: darkblue;
+    margin-top: 75px;
+}
+
+#insidebox {
+	background-color: darkgreen;
+	width: 1500px;
+	height: 600px;
+}
+
+.textbox2 {
+	color:white;
+	font-size: 18px;
+	line-height: 1.5em;
+	text-align: center;
+	padding-top: 5em;
+}
+
+.button2{
+	background-color:white;
+	border: 2px solid;
+	border-radius: 6px;
+    font: 15px helvetical, arial;
+    text-align: center;
+    color: green;
+    padding: 20px;
+    text-decoration: none;
+    margin: 630px;
+    font-weight: bolder;
+}
+
+.button1{
+	background-color:white;
+	border-radius: 15px;
+    font: 15px arial;
+    text-align: center;
+    color: green;
+    padding: 10px;
+    text-decoration: none;
+    margin: 630px;
+    font-weight: normal;
+}
+
+
+
+
+.grid1 {
+	background-color: darkblue;
+	height: 200px;
+	width: 300px;
+	padding: 105px;
+    color: white;
+    padding-top: 5px;
+    margin: 20px 4px;
+     float: left;
+     
+ 
+   
+
+}
+
+.grid2 {
+	background-color: darkgreen;
+	height: 300px;
+	width: 300px;
+	padding: 105px;
+    color: white;
+    padding-top: 5px;
+    margin: 20px 4px;
+     float: left;
+
+     
+   
+
+}
+
+.grid3 {
+	background-color: darkblue;
+	height: 250px;
+	width: 300px;
+	padding: 105px;
+    color: white;
+    padding-top: 5px;
+    margin: 20px 4px;
+     float: left;
+   
+
+}
+
+
+.para1,.list1,.save	{
+
+	color: white;
+	font-size: 20px;
+	font-weight: normal;
+	
+	padding-bottom: 10px;
+}
+
+.para2	{
+
+	color: white;
+	font-size: 18px;
+	font-weight: normal;
+	text-align: center;
+	font-family: times new roman;
+	line-height: 2.0em;
+}
+
+.para3,ul,li	{
+
+	color: white;
+	font-size: 15px;
+	font-weight: normal;
+	
+}
+
+
+.thirdbox {
+
+	text-align: center;
+	color: white;
+	background-color: darkblue;
+	height: 400px;
+	font-size: 30px;
+  font-weight: bold ;
+  
+
+}
+
+.decorate {
+	font-size: 40px;
+	margin-top: 10px;
+	
+}
+
+.lastone {
+	margin-top: 80px;
+}
+
+ .now {
+	font-size: 30px;
+	
+}
+  .new {  
+	text-decoration: none;
+	background-color: rgb(85, 255, 47);
+	color: white;
+	border-radius: 7px;
+	padding: 5px 55px;
+	border: 5px solid rgb(85, 255, 47);  ;
+
+}
+
+.finally {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-gap: 10px;
+}
+
+
+
+
+#footer {
+	background-color:rgba(0, 0, 0, 0.849);
+	height: 400px;
+	margin-top: 70px; 
+	display: grid;
+	padding-top: 20px;
+	grid-template-columns: 1fr 3fr;
+	
+
+}
+
+#footer ul {
+	list-style-type: none;
+	margin: 20px;
+	
+
+} 
+
+.whitetext {
+	color: white;
+	font-size: 20px;
+}
+
+.remove, a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px ;
+}
+
+
+
+#lastcard {
+	float: right;
+	background-color: brown;
+	display: inline;
+}
+
+.plus {
+	float: right;
+	cursor: pointer;
+	color: black;
+}
+
+
+
+.plus1 {
+	float: left;
+	cursor: pointer;
+	color: black;
+	margin: 5px;
+	padding: 5px;
+}
+
+.big {
+	background-color: rgba(0, 0, 0, 0.849);
+	margin-top: 1px;
+	height: 50px;
+	text-align: center;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

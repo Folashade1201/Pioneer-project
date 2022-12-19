@@ -1,0 +1,56 @@
+body {
+	margin: 15px;
+	background-color: rgb(246, 246, 246);
+}
+
+input {
+	border: none;
+}
+
+#unique {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 20px;
+}
+
+.name {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+
+}
+
+
+.para38 a{
+	text-decoration: none;
+	background-color: rgb(0, 26, 255);
+	border: 4px solid rgb(0, 17, 255);
+	color: white;
+	width: 80px;
+	border-radius: 5px;
+    text-align: center;
+	padding:  5px;
+	font-size: large;
+}
+
+.para39 a{
+	text-decoration: none;
+	background-color: rgb(0, 162, 255);
+	color: white;
+	width: 80px;
+    text-align: center;
+	padding:  10px;
+	font-size: normal;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+
+
+.sidebyside0, .side01, .side02, .side03, .side04, .side05, .side06, .side07, .side08, .side09, .side10 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}

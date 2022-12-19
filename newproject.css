@@ -1,0 +1,37 @@
+ a{
+    text-decoration: none;
+} 
+
+.helper {
+    background-color: green;
+	padding: 10px 115px;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px;
+	font-weight: normal;
+    border: none;
+}
+
+.first {
+    color: blue;
+}
+
+.decor {
+   border: 8px solid rgb(246, 246, 246);
+   background-color:grey;
+}
+
+ .move{
+/* 
+    margin:550px;
+    background-color: blueviolet;
+      */
+	position: relative;
+	background-color: rgb(246, 246, 246);
+	width: 350px;
+	height: 315px;
+	border-radius: 5px;
+	text-align: center;
+	margin:  auto;
+    margin-top: 115px;
+}
